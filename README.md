@@ -1,1 +1,1 @@
-# Recipe-Finder-Website-
+# Recipe Finder Website
